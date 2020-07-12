@@ -1,0 +1,26 @@
+{
+  "name": "nuxt_app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "element-ui": "^2.13.2",
+    "nuxt": "^2.13.0"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "node-sass": "^4.14.1",
+    "prettier": "^2.0.5",
+    "sass-loader": "^9.0.2",
+    "vue-notifications": "^1.0.2"
+  }
+}
